@@ -8,7 +8,7 @@ El proyecto permite a un usuario autenticado valorar películas, consultar sus v
 
 Movie Reviews Laravel es una aplicación sencilla de catálogo y reseñas de películas. Incluye una zona pública donde se muestran las películas disponibles y una zona privada donde cada usuario puede consultar y gestionar sus valoraciones.
 
-Este proyecto forma parte de mi portfolio como desarrolladora web junior y está enfocado en demostrar el uso de Laravel, Blade, MySQL, rutas protegidas, autenticación básica y relaciones entre modelos.
+Proyecto personal desarrollado para practicar Laravel, Blade y MySQL, con autenticación, rutas protegidas, validación de formularios y relaciones entre modelos.
 
 ## Funcionalidades
 
@@ -201,7 +201,7 @@ php artisan test
 
 ## Qué demuestra este proyecto
 
-Este proyecto demuestra conocimientos básicos y prácticos de desarrollo web con Laravel:
+Este proyecto demuestra conocimientos prácticos de desarrollo web con Laravel:
 
 * creación de rutas públicas y privadas;
 * uso de controladores;
@@ -217,7 +217,7 @@ Este proyecto demuestra conocimientos básicos y prácticos de desarrollo web co
 
 ## Estado del proyecto
 
-Proyecto terminado como aplicación de portfolio junior.
+Proyecto completado.
 
 Posibles mejoras futuras:
 
