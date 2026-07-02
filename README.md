@@ -73,7 +73,7 @@ routes/
 Clona el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/ledesmamaria/movie-reviews-laravel.git
 cd movie-reviews-laravel
 ```
 
