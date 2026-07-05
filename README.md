@@ -185,7 +185,7 @@ php artisan test
 
 ### Inicio de sesión
 
-![Inicio de sesión](docs/screenshots/login.png)
+![Inicio de sesión](docs/screenshots/login.gif)
 
 ### Zona privada
 
@@ -193,11 +193,11 @@ php artisan test
 
 ### Formulario de valoración
 
-![Formulario de valoración](docs/screenshots/formulario-valoracion.png)
+![Formulario de valoración](docs/screenshots/formulario-valoracion.gif)
 
 ### Confirmación de eliminación
 
-![Confirmación de eliminación](docs/screenshots/confirmar-eliminacion.png)
+![Confirmación de eliminación](docs/screenshots/confirmar-eliminacion.gif)
 
 ## Qué demuestra este proyecto
 
